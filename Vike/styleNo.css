@@ -1,0 +1,37 @@
+h1 {
+    position: absolute;
+    left: 700px;
+    top: 100px;
+    font-size: 100px;
+}
+.answer {
+    position: absolute;
+    left: 500px;
+    top: 500px;
+    background-color: #D9D9D9;
+    text-transform: uppercase;
+    text-decoration: none;
+    color:black;
+    font-family: Arial;
+    font-size: 25px;
+}
+.answer1 {
+    position: absolute;
+    left: 1400px;
+    top: 500px;
+    background-color: #D9D9D9;
+    text-transform: uppercase;
+    text-decoration: none;
+    color:black;
+    font-family: Arial;
+    font-size: 25px;
+}
+.predu {
+    position: absolute;
+    top: 900px;
+    font-size: 19px;
+}
+.image {
+    position: absolute;
+    width: 100px;
+}

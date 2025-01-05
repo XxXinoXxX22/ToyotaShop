@@ -1,0 +1,38 @@
+header {
+    position: absolute;
+    left: 800px;
+    top: 200px;
+}
+.answ {
+    position: absolute;
+    left: 500px;
+    top: 400px;
+    background-color: #D9D9D9;
+    text-transform: uppercase;
+    text-decoration: none;
+    color:black;
+    font-family: Arial;
+    font-size: 25px;
+}
+.answ1 {
+    position: absolute;
+    left: 1300px;
+    top: 400px;
+    background-color: #D9D9D9;
+    text-transform: uppercase;
+    text-decoration: none;
+    color:black;
+    font-family: Arial;
+    font-size: 25px; 
+}
+footer {
+    position: absolute;
+    top: 900px;
+    font-size: 19px;
+}
+.img {
+    position: absolute;
+    bottom: 170px;
+    right: 950px;
+    width: 100px;
+}

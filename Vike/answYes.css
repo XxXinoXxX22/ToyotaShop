@@ -1,0 +1,16 @@
+.succ {
+    position: absolute;
+    top: 400px;
+    font-size: 50px;
+    left: 900px;
+}
+.click {
+    position: absolute;
+    left: 1100px;
+    top: 600px;
+    background-color: #D9D9D9;
+    text-transform: uppercase;
+    text-decoration: none;
+    color:black;
+    font-family: Arial;
+}

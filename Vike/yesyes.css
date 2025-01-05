@@ -1,0 +1,26 @@
+h1{
+    position: absolute;
+    top: 400px;
+    left: 900px;
+}
+.a{
+    position: absolute;
+    top: 500px;
+    left: 500px;
+    background-color: #ffffff;
+    text-transform: uppercase;
+    text-decoration: none;
+    color:black;
+    font-family: Arial;
+    font-size: 10px;
+}
+.leave{
+    position: absolute;
+    left: 1000px;
+    background-color: #ffffff;
+    text-transform: uppercase;
+    text-decoration: none;
+    color:black;
+    font-family: Arial;
+    font-size: 10px;
+}

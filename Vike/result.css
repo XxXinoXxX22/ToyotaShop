@@ -1,0 +1,40 @@
+.bx-wrapper {
+    width: 775px;
+}
+.slider-nav > div {
+    float: left;
+    border: 4px solid #fff;
+}
+
+.slider-nav > div a {
+    display: block;
+    cursor: pointer;
+}
+
+.slider-nav > div a.active {
+    border-bottom: 4px solid #000;
+}
+.background{
+    background-image: url('photo/love12.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+.lovetx{
+    position: absolute;
+    left: 3000px;
+    top: 300px;
+    font-size: 60px;
+
+}
+.look{
+    position: absolute;
+    top: 450px;
+    left: 1700px;
+}

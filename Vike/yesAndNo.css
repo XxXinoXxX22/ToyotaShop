@@ -1,0 +1,21 @@
+h1 {
+    position: absolute;
+    left: 750px;
+    top: 200px;
+}
+.da {
+    position: absolute;
+    top: 500px;
+    left: 950px;
+    background-color: #D9D9D9;
+    text-transform: uppercase;
+    text-decoration: none;
+    color:black;
+    font-family: Arial;
+    font-size: 25px;
+}
+footer {
+    position: absolute;
+    top: 900px;
+    font-size: 20px;
+}
